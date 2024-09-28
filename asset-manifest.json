@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/faizan-adeeba-wedding/static/css/main.f855e6bc.css",
+    "main.js": "/faizan-adeeba-wedding/static/js/main.1faabf2f.js",
+    "static/js/453.7e3e3be8.chunk.js": "/faizan-adeeba-wedding/static/js/453.7e3e3be8.chunk.js",
+    "static/media/cardBg.png": "/faizan-adeeba-wedding/static/media/cardBg.1a01d3fffa7ee40bdaec.png",
+    "static/media/upper.png": "/faizan-adeeba-wedding/static/media/upper.162d95fe9189881a85e7.png",
+    "static/media/lower.png": "/faizan-adeeba-wedding/static/media/lower.ab8495942643968902be.png",
+    "static/media/bismillahImageGreen.png": "/faizan-adeeba-wedding/static/media/bismillahImageGreen.762d06a16fffe5c2539e.png",
+    "index.html": "/faizan-adeeba-wedding/index.html",
+    "main.f855e6bc.css.map": "/faizan-adeeba-wedding/static/css/main.f855e6bc.css.map",
+    "main.1faabf2f.js.map": "/faizan-adeeba-wedding/static/js/main.1faabf2f.js.map",
+    "453.7e3e3be8.chunk.js.map": "/faizan-adeeba-wedding/static/js/453.7e3e3be8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.1faabf2f.js"
+  ]
+}
